@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://mailto:alexandrevelozo4@gmail.com">
-    <img alt="Higor Denomar" src="https://img.shields.io/badge/-alexandrevelozo4%40gmail.com-8257E5?style=flat&logo=Gmail&logoColor=white" />
+    <img alt="Alexandre Velozo" src="https://img.shields.io/badge/-alexandrevelozo4%40gmail.com-8257E5?style=flat&logo=Gmail&logoColor=white" />
   </a>
   
 </div>
